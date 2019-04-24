@@ -2,5 +2,6 @@
     "posts": [
       "*"
     ],
-    "main": "notebook.ipynb"
+    "main": "notebook.ipynb",
+    "hideRoot": true
 }
